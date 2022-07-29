@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Chirag Yadav. My interest is in 3D Animation. I also have basic knowledge of pyhton,C++. I am curious to learn new stuffs.
+I am Chirag Yadav. My interest is in 3D Animation. I also have basic knowledge of python,C++. I am curious to learn new stuffs.
 
 Here are some ideas to get you started:
 
